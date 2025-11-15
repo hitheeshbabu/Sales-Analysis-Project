@@ -1,0 +1,21 @@
+OrderID,Date,Product,Category,Quantity,Price,Region
+1001,1/3/2024,LED Bulb,Electronics,3,150,North
+1002,1/5/2024,USB Cable,Electronics,2,120,South
+1003,1/7/2024,Washing Powder,Home Care,1,250,East
+1004,1/9/2024,Shampoo,Personal Care,4,180,West
+1005,1/12/2024,LED Bulb,Electronics,5,150,North
+1006,1/15/2024,Rice Bag,Groceries,1,800,South
+1007,1/17/2024,Milk Packet,Groceries,6,50,East
+1008,1/18/2024,Shampoo,Personal Care,2,180,West
+1009,1/20/2024,USB Cable,Electronics,1,120,North
+1010,1/22/2024,Rice Bag,Groceries,2,800,South
+1011,1/25/2024,Washing Powder,Home Care,3,250,East
+1012,1/28/2024,Milk Packet,Groceries,10,50,West
+1013,1/30/2024,LED Bulb,Electronics,4,150,North
+1014,2/2/2024,Shampoo,Personal Care,3,180,South
+1015,2/4/2024,Rice Bag,Groceries,1,800,East
+1016,2/6/2024,USB Cable,Electronics,3,120,West
+1017,2/8/2024,Milk Packet,Groceries,5,50,North
+1018,2/10/2024,Washing Powder,Home Care,2,250,South
+1019,2/12/2024,LED Bulb,Electronics,3,150,East
+1020,2/14/2024,Shampoo,Personal Care,4,180,West
